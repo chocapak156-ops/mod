@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/TON_PSEUDO/carxmod-updates/raw/main/CarXMod.dll",
-  "changelog": "Version initiale"
+  "version": "1.0.1",
+  "download_url": "https://raw.githubusercontent.com/chocapak156-ops/mod/main/CarXMod.dll",
+  "changelog": "- Options de modification du salon (Meteo Jour/Nuit, Vote, Maps)\n- Correctifs launcher et stabilite"
 }
